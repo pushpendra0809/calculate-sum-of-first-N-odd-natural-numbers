@@ -1,0 +1,1 @@
+# calculate-sum-of-first-N-odd-natural-numbers
